@@ -1,0 +1,15 @@
+app:
+  name: news_web
+  port: :8080
+
+database:
+  host: localhost
+  port: 3306
+  user: root
+  password: 1111
+  name: news_web
+  MaxIdleConns : 11
+  MaxOpenConns : 114
+
+
+
